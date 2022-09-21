@@ -2,7 +2,8 @@
 // Fill-in information from your Blynk Template here
 #define BLYNK_TEMPLATE_ID "TMPLXaaoJThj"
 #define BLYNK_DEVICE_NAME "SerialGateWay"
-//#define BLYNK_AUTH_TOKEN "82VkozVSmUrtxeogyxU81BdvAYULBrUi"
+//#define BLYNK_AUTH_TOKEN "gkuISeJaUyCJLQR-RhQJrlDscd-UhAfe"
+
 
 #define BLYNK_FIRMWARE_VERSION        "1.1.0"
 
